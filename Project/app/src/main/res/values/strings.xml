@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="fb_logo_desc">Facebook Logo</string>
+    <string name="instagram_logo_desc">Instagram Logo</string>
+    <string name="lang_eng">English </string>
+    <string name="dot">·</string>
+    <string name="change">Change</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">LOG IN</string>
+    <string name="sign_up">Sign up for Facebook</string>
+    <string name="forgot">Forgot Password ?</string>
+</resources>
